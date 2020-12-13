@@ -5,6 +5,3 @@ testrik
 
 lololo
 lululu
-gggg
-ffff
------------
